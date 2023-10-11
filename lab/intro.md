@@ -8,7 +8,7 @@
 <a href="https://twitter.com/monogioudis?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @monogioudis</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ```
-![bridge](forest.png)
+![bridge](forest.jpg)
 
 ## What is the purpose of this site?
 

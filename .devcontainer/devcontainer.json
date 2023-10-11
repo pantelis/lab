@@ -47,5 +47,5 @@
 			}
 		}
 	},
-	"postStartCommand": "jb config sphinx lab && sphinx-autobuild --port 20000 lab  _build/html"
+	"postStartCommand": "jb config sphinx lab && sphinx-autobuild --port 30000 lab  _build/html"
 }
