@@ -56,3 +56,11 @@ parts:
     chapters:
     - file: aiml-common/projects/collaborative-robotics/index.md
     - file: aiml-common/projects/usv/index.md   
+    - file: aiml-common/projects/world-models/index.md   
+
+  - caption:  Projects - Computer Vision
+    chapters:
+    - file: aiml-common/projects/transfer-learning-home-depot/index.md
+    - file: aiml-common/projects/spacenet-2-5-challenges/_index.md
+      
+    
