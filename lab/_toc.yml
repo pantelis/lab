@@ -10,13 +10,23 @@ parts:
     - file: aiml-common/resources/environment/index.md
     - file: aiml-common/resources/environment/assignment-submission.md
     - file: aiml-common/lectures/python/index.md
-    #- file: aiml-common/lectures/ensemble/gradient-boosting/xgboost-app/xgboost.ipynb
-    - file: aiml-common/resources/environment/notebook-status.md
    
-  - caption:  Assignments 
+  - caption:  Assignments - Probability
     chapters:
+    - file: aiml-common/assignments/probability/probability-assignment-1/index.ipynb
+    - file: aiml-common/assignments/probability/probability-assignment-2/index.ipynb  
+    - file: aiml-common/assignments/probability/probability-assignment-3/index.ipynb    
+    - file: aiml-common/assignments/probability/probability-assignment-4/index.ipynb
+    - file: aiml-common/assignments/probability/probability-assignment-5/index.ipynb  
+    - file: aiml-common/assignments/probability/probability-assignment-6/index.ipynb    
     - file: aiml-common/assignments/probability/probability-assignment-7/index.ipynb
+    
+  - caption:  Assignments - Ensemble Methods
+    chapters:
     - file: aiml-common/assignments/ensemble/ais/index.md
+    - file: aiml-common/assignments/ensemble/emg/index.md  
+    
+      
       
   #   - file: aiml-common/assignments/recommendations/index.ipynb
   #   - file: aiml-common/assignments/crop-yield-estimation/index.ipynb
