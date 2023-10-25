@@ -218,7 +218,7 @@ urllib3==1.26.13
 wasabi==1.1.1
 wcwidth==0.2.6
 webencodings==0.5.1
-Werkzeug==2.2.2
+Werkzeug==3.0.1
 wheel==0.38.4
 xdoctest==1.0.2
 xgboost==1.7.1
